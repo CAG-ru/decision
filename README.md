@@ -1,2 +1,2 @@
 # decision
-DEclarations of CIvil Servants parser
+*DE*clarations of *CI*vil *S*ervants parser
