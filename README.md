@@ -82,4 +82,6 @@ optional arguments:
 
 Ольга Батова, [o.batova@cpur.ru]
 
+Мария Василевская, [m.vasilevskaia@cpur.ru]
+
 Витовт Копыток, [v.kopytok@cpur.ru]
