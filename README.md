@@ -23,7 +23,7 @@ python decide.py -m mvd -y 2016 -w data
 ### Linux
 
 ```shell
-apt-get install soffice
+apt-get install libreoffice
 git clone git@github.com:CAG-ru/decision.git
 pip install requirements.txt
 ```
