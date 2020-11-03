@@ -1,2 +1,2 @@
-# decision
-*DE*clarations of *CI*vil *S*ervants parser
+# Decision
+– **De**clarations of **Ci**vil **S**ervants Parser
