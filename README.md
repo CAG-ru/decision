@@ -25,14 +25,14 @@ python decide.py -m mvd -y 2016 -w data
 ```shell
 apt-get install libreoffice
 git clone git@github.com:CAG-ru/decision.git
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 ### MacOS
 
 ```shell
 brew install libreoffice
 git clone git@github.com:CAG-ru/decision.git
-pip install requirements.txt
+pip install -r requirements.txt
 ```
 ## Использование
 
