@@ -15,6 +15,7 @@ def normalize_money_add(text):
 def normalize_money(text):
     text = str(text)
     if text and re.sub(r'[^\d.]', '', text):
+        text = re.sub(',', '.', text)
         return Decimal(re.sub(r'[^\d.]', '', text))
     return Decimal(0)
 
